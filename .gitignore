@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.alembic/*
+.pytest_cache/
+.DS_Store
